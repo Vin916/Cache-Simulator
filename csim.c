@@ -1,10 +1,3 @@
-/*
-** Ezra Anthony opa14
-** Romit Ghosh rg1129
-** Javier Martinez jm1941
-** Vineeth Reddy vcr24
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <getopt.h>
